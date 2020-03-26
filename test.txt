@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 others changed
 others new  changed
+=======
+gzg changed
+others changed
+
+>>>>>>> 9c1a734d2babdf9a3db569bf300ef24d4553fcc2
